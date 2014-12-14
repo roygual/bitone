@@ -49,8 +49,9 @@ var map = '';
 function initialize() {
     var mapOptions = {
       zoom: 14,
-      center: new google.maps.LatLng(16.8461789,96.1309764)
+      center: new google.maps.LatLng(20.7047006,-102.3348402)
     };
+    
     map = new google.maps.Map(document.getElementById('map'),  mapOptions);
 }
 
