@@ -597,14 +597,14 @@ h6 {
 }
 .product-item .item-thumb .overlay .overlay-inner a.view-detail {
   position: relative;
-  margin-top: 45%;
+  margin-top: 10%;
   display: block;
-  background: url(../images/active-state.png) no-repeat;
-  background-position: center 20px;
-  padding-bottom: 30px;
+  
+  background-position: left top 20px;
+  padding-bottom: 3px;
   color: #2E8FC6;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 11px;
   text-transform: uppercase;
 }
 .product-item .item-thumb:hover .overlay {
